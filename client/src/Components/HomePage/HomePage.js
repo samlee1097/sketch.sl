@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../Assets/logo.gif'
+import logo from '../../Assets/logo.gif'
 
 function HomePage() {
     return (
